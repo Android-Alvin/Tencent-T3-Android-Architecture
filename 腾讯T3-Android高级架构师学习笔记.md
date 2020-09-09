@@ -96,6 +96,7 @@ Java 是 Android App 开发默认的语言, Android Framework 也是默认使用
 [![](https://upload-images.jianshu.io/upload_images/24099992-3ebe67462bc2b10e?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](https://camo.githubusercontent.com/1360cd9a9fbd36f55a9b0098ce3503598eb754ee/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f32343039393939322d633265366138353534393864356636662e6a7067217468756d626e61696c3f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430) 
 
 **9.kotlin**
+
 为什么要学习Kotlin？
 * Google发布申明，目前已经有35%的Android专业开发人员使用kotlin（爆发式增长）
 * Google与Oracle源于Android的恩怨持续已久，也一直想要找一种语言代替Java
